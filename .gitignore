@@ -1,0 +1,4 @@
+log.txt
+##ignores the file in $git status even if it was changed , here log.txt is ignored
+/directory2
+## *.txt
